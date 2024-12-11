@@ -1,0 +1,6 @@
+{
+  "name": "Example Token",
+  "symbol": "EXMPL",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/Abdsys/Sample/109b243c88a47b74656518b343244c17d5677dc9/download%20(1).jpeg"
+}
